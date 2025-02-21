@@ -1,4 +1,4 @@
-Here's a sample GitHub README file content for your Rock-Paper-Scissors game:
+
 Rock-Paper-Scissors Game
 A simple command-line Rock-Paper-Scissors game built in Python.
 Features
